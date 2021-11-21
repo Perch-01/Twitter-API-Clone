@@ -1,5 +1,5 @@
 # Twitter-API-Clone
-A Twitter API clone with only backend endpoints
+A Twitter API clone with only backend endpoints using firebase
 
 ## Background
 I used **firebase** as the backend for this server so majority of this code uses firebase to function. The code is contained in _functions/index.js_ and it has all the endpoints that I was assigned about for the backend. I did everything up until the very last portion which involved threading and this was due to insufficient time. A few important things I would like to dicsuss:
